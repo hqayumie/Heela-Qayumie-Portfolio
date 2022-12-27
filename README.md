@@ -5,5 +5,5 @@ The following project is a Professional Portfolio where I can showcase my projec
 
 ## Screenshot
 
-## [Link] (https://hqayumie.github.io/Heela-Qayumie-Portfolio/)
+<a href="https://hqayumie.github.io/Heela-Qayumie-Portfolio/" target="_blank">Link</a>
 
