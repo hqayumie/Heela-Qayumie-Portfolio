@@ -221,15 +221,14 @@ a:link {
 }
 
 
+@media screen and (max-width: 992px) {
+    .card {
+      width: 50%;
+    }
+}
+
 @media screen and (max-width: 768px) {
-    header, main {
-      flex-direction: column;
+    .card {
+      width: 100%;
     }
-  
-    section {
-      padding-right: 0;
-    }
-  
-    
-  }
- 
+}
