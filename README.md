@@ -5,7 +5,7 @@ The following project is a Professional Portfolio where I can showcase my projec
 
 ## Screenshot
 
- <img src="/Users/owner/bootcamp/Challenges/Heela-Qayumie-Portfolio/images/41EA8D5A-53F8-4FD0-895C-1317FAB747A6.jpeg">
 
-<a href="https://hqayumie.github.io/Heela-Qayumie-Portfolio/" target="_blank">Link<>
+![Screenshot]https://github.com/hqayumie/Heela-Qayumie-Portfolio/blob/4b79c907abd266ddf2b69883eb452e7b094bd626/images/41EA8D5A-53F8-4FD0-895C-1317FAB747A6.jpeg
+<a href="https://hqayumie.github.io/Heela-Qayumie-Portfolio/" target="_blank">Link
 
